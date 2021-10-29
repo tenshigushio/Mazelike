@@ -1,0 +1,15 @@
+F:\VS2019\projects\xamarin\Mazelike\Mazelike\bin\Debug\netstandard2.0\Mazelike.deps.json
+F:\VS2019\projects\xamarin\Mazelike\Mazelike\bin\Debug\netstandard2.0\Mazelike.dll
+F:\VS2019\projects\xamarin\Mazelike\Mazelike\bin\Debug\netstandard2.0\ref\Mazelike.dll
+F:\VS2019\projects\xamarin\Mazelike\Mazelike\bin\Debug\netstandard2.0\Mazelike.pdb
+F:\VS2019\projects\xamarin\Mazelike\Mazelike\obj\Debug\netstandard2.0\Mazelike.csproj.AssemblyReference.cache
+F:\VS2019\projects\xamarin\Mazelike\Mazelike\obj\Debug\netstandard2.0\Mazelike.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS2019\projects\xamarin\Mazelike\Mazelike\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\VS2019\projects\xamarin\Mazelike\Mazelike\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\VS2019\projects\xamarin\Mazelike\Mazelike\obj\Debug\netstandard2.0\Mazelike.AssemblyInfoInputs.cache
+F:\VS2019\projects\xamarin\Mazelike\Mazelike\obj\Debug\netstandard2.0\Mazelike.AssemblyInfo.cs
+F:\VS2019\projects\xamarin\Mazelike\Mazelike\obj\Debug\netstandard2.0\Mazelike.csproj.CoreCompileInputs.cache
+F:\VS2019\projects\xamarin\Mazelike\Mazelike\obj\Debug\netstandard2.0\XamlC.stamp
+F:\VS2019\projects\xamarin\Mazelike\Mazelike\obj\Debug\netstandard2.0\Mazelike.dll
+F:\VS2019\projects\xamarin\Mazelike\Mazelike\obj\Debug\netstandard2.0\ref\Mazelike.dll
+F:\VS2019\projects\xamarin\Mazelike\Mazelike\obj\Debug\netstandard2.0\Mazelike.pdb
